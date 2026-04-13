@@ -85,7 +85,7 @@
 
 ---
 
-## 3. Azure の管理とガバナンス (30~35%)
+## 3. Azure の管理とガバナンス (30~35%) [解説はこちら](./Section3_Azure_Management_and_Governance.md)
 
 ### 3.1 コスト管理
 - [ ] Azure のコストに影響する要因
